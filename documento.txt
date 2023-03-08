@@ -1,3 +1,5 @@
 texto aleatorio
 Edicion desde repositorio remoto
 Modificacion local
+Modificacion remota
+
